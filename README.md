@@ -1,0 +1,103 @@
+# 🚀 SigmaGPT
+
+SigmaGPT is a full-stack AI-powered chat application inspired by modern conversational interfaces.  
+The project focuses on **real-world deployment**, **frontend–backend integration**, and **cloud infrastructure** using AWS.
+
+---
+
+## ✨ Features
+
+- 💬 AI-powered chat interface
+- 🧵 Thread-based conversations
+- 📜 Persistent chat history
+- ⚡ Fast and responsive UI
+- 🌐 Deployed on AWS EC2 with Nginx
+- 🔗 Frontend–backend integration over REST APIs
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React (Vite)
+- JavaScript
+- HTML & CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Deployment & DevOps
+- AWS EC2
+- Nginx
+- Linux (Ubuntu)
+- GitHub Actions (CI/CD)
+
+---
+
+## 🌐 Live Demo
+
+🚀 **SigmaGPT is live and deployed on AWS EC2**
+
+---
+
+## 🧠 What I Learned
+
+- Deploying frontend apps with **Nginx**
+- Connecting frontend to backend on a remote server
+- Debugging real production issues (CORS, ports, configs)
+- Managing AWS EC2 instances
+- Writing deployment-friendly code
+- End-to-end ownership of a full-stack project
+
+---
+
+## 📂 Project Structure
+
+SigmaGPT/
+│
+├── Frontend/ # React frontend
+├── Backend/ # Node.js backend
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🚀 Getting Started (Local Setup)
+
+### Clone the repository
+
+```bash
+
+git clone https://github.com/Utkarsh-Raj-Profile/SigmaGPT.git
+
+cd SigmaGPT
+
+# Frontend Setup
+
+bash
+Copy code
+cd Frontend
+npm install
+npm run dev
+
+
+#Backend Setup
+
+bash
+Copy code
+cd Backend
+npm install
+npm start
+
+# 🙏 Acknowledgements
+
+Special thanks to @ShradhaKhapra for her guidance and excellent teaching,
+which helped me understand deployment concepts and push through real-world challenges.
+
+# 👤 Author
+
+Utkarsh Raj
