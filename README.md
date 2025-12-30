@@ -76,7 +76,7 @@ git clone https://github.com/Utkarsh-Raj-Profile/SigmaGPT.git
 
 cd SigmaGPT
 
-# Frontend Setup
+Frontend Setup
 
 bash
 Copy code
@@ -85,7 +85,7 @@ npm install
 npm run dev
 
 
-#Backend Setup
+Backend Setup
 
 bash
 Copy code
@@ -93,11 +93,11 @@ cd Backend
 npm install
 npm start
 
-# 🙏 Acknowledgements
+🙏 Acknowledgements
 
 Special thanks to @ShradhaKhapra for her guidance and excellent teaching,
 which helped me understand deployment concepts and push through real-world challenges.
 
-# 👤 Author
+👤 Author
 
 Utkarsh Raj
