@@ -95,7 +95,7 @@ npm start
 
 🙏 Acknowledgements
 
-Special thanks to @ShradhaKhapra for her guidance and excellent teaching,
+Special thanks to Apna College for guidance and excellent teaching,
 which helped me understand deployment concepts and push through real-world challenges.
 
 👤 Author
