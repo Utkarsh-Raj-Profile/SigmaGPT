@@ -40,6 +40,7 @@ The project focuses on **real-world deployment**, **frontend–backend integrati
 
 🚀 **SigmaGPT is live and deployed on AWS EC2**
 
+
 ---
 
 ## 🧠 What I Learned
