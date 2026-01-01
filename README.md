@@ -28,6 +28,14 @@ The project focuses on **real-world deployment**, **frontend–backend integrati
 - Express.js
 - REST APIs
 
+### Screensort
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e67cadf-6a21-46fe-a288-383b0b8ae66a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d397caf0-c597-47d4-b796-03ad9baaad27" />
+
+
+
 ### Deployment & DevOps
 - AWS EC2
 - Nginx
@@ -39,6 +47,8 @@ The project focuses on **real-world deployment**, **frontend–backend integrati
 ## 🌐 Live Demo
 
 🚀 **SigmaGPT is live and deployed on AWS EC2**
+
+http://ec2-16-171-237-242.eu-north-1.compute.amazonaws.com/
 
 
 ---
